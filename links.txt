@@ -1,0 +1,6 @@
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+
+
+dotnet tool install -g dotnet-script
+
+dotnet script .\script.csx
